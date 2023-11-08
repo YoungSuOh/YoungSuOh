@@ -1,3 +1,6 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Dancingtuna)](https://solved.ac/Dancingtuna/)
+<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungSuOh)](https://github.com/anuraghazra/github-readme-stats)
+
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -9,12 +12,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
-
-
-<br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Dancingtuna)](https://solved.ac/Dancingtuna/)
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungSuOh)](https://github.com/anuraghazra/github-readme-stats)
-<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungSuOh)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
+
+
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paul9119298@gmail.com)](mailto:paul9119298@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:paul9498@naver.com)](mailto:paul9498@naver.com)
