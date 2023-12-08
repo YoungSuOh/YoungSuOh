@@ -5,7 +5,7 @@
 ### Platforms & Languages
 ![C++](https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Kotlin](https://img.shields.io/badgeKotlin-7F52FF?style=for-the-badge&logo=Kotlin}&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
