@@ -30,11 +30,9 @@
 			<td>
 				<img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 				<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-        			<!--<img alt="VanilaScript" src="https://img.shields.io/badge/VanilaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />-->
 				<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-        			<img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
 				<img alt="jsp" src="https://img.shields.io/badge/JSP-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"/>
-				<img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
+				<img alt="android" src="https://img.shields.io/badge/android-34A853.svg?&style=flat&logo=Android&logoColor=white" />
 			</td>
 		</tr>
 		<tr>
@@ -43,13 +41,8 @@
 			</th>
 			<td>Platform</td>
 			<td>
-				<!-- <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/> -->
-				<!-- <img alt="Koa" src="https://img.shields.io/badge/Koa-33333D?style=flat&logo=Koa&logoColor=white"/> -->
-				<!-- <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/> -->
 				<img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-				<img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />
-				<img alt="android" src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white" />
-        <img alt="tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=Apache-Tomcat&logoColor=white" />
+				<img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />                                
 			</td>
 		</tr>
 		<tr>
@@ -77,37 +70,28 @@
 			</td>
 		</tr>
 		<tr>
-			<th rowspan="4"><font><b>ETC</b></font></th>
+			<th rowspan="5"><font><b>ETC</b></font></th>
 			<td>VCS</td>
 			<td>
 				<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 				<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-				<!-- <img alt="Jira" src="https://img.shields.io/badge/Jira%20Software-0052CC?style=flat&logo=jirasoftware&logoColor=white" /> -->
 			</td>
 		</tr>
-		<!-- <tr>
-			<td>OS</td>
-			<td>
-      				<img alt="Mac" src="https://img.shields.io/badge/Mac_OS-000000?style=flat&logo=Apple&logoColor=white" />
-				<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
-				<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-				<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
-			</td>
-		</tr> -->
 		<tr>
 			<td>IDE</td>
 			<td>
 				<img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white" />
 				<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse-IDE&logoColor=white" />
 				<img alt="Intellij" src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white" />
+				<img alt="androidstudio" src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
 			</td>
 		</tr>
 		<tr>
-			<td>Cloud Computing</td>
+			<td>Cloud & CI/CD</td>
 			<td>
 				<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white" />
 				<img alt="NCP" src="https://img.shields.io/badge/NaverCloudPlatform-03C75A?style=flat&logo=Naver&logoColor=white" />
-				<!-- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> -->
+				<img alt="Jenkins" src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
 			</td>
 		</tr>
 		<tr>
@@ -119,6 +103,13 @@
 				<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 				<!-- <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> -->
 				<!-- <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" /> -->
+		</tr>
+		<tr>
+			<td>WebServer</td>
+			<td>
+				<img alt="tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=Apache-Tomcat&logoColor=white" />
+				<img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white" />
+			</td>
 		</tr>
 	</table>  
 </div>
