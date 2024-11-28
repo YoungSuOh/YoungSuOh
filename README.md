@@ -105,7 +105,7 @@
 				<!-- <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" /> -->
 		</tr>
 		<tr>
-			<td>WebServer</td>
+			<td>WAS</td>
 			<td>
 				<img alt="tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=Apache-Tomcat&logoColor=white" />
 				<img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white" />
