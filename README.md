@@ -30,13 +30,14 @@
 			<td>
 				<img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 				<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+				<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
 				<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 				<img alt="jsp" src="https://img.shields.io/badge/JSP-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"/>
 				<img alt="android" src="https://img.shields.io/badge/android-34A853.svg?&style=flat&logo=Android&logoColor=white" />
 			</td>
 		</tr>
 		<tr>
-			<th rowspan="2">
+			<th rowspan="4">
 				<font><b>BackEnd</b></font>
 			</th>
 			<td>Platform</td>
@@ -47,11 +48,20 @@
 		</tr>
 		<tr>
 			<td>ORM</td>
-			<td>
-       				 <!-- <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/> -->
-        			<!-- <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/> -->
-				<img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+			<td>				
 				<img alt="spring data jpa" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=Spring&logoColor=white" />
+			</td>
+		</tr>
+		<tr>
+			<td>SQL Mapper</td>
+			<td>
+				<img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+			</td>
+		</tr>
+		<tr>
+			<td>Data Stream</td>
+			<td>
+				<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
 			</td>
 		</tr>
 		<!-- <tr>
@@ -65,8 +75,8 @@
 			<td>
 				<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 				<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-				<!-- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> -->
-				<!-- <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" /> -->
+				<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+				<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
 			</td>
 		</tr>
 		<tr>
