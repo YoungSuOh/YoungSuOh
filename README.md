@@ -1,4 +1,4 @@
-# [👨‍💻 My Profile](https://youngsuoh.github.io/)
+# [👨‍💻 My Profile](https://github.com/YoungSuOh/YoungSuOh_Portfolio/blob/main/YoungSuOh_Portfolio.pdf)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Dancingtuna)](https://solved.ac/Dancingtuna/)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungSuOh)](https://github.com/anuraghazra/github-readme-stats)
